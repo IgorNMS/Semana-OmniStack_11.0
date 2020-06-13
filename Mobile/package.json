@@ -9,13 +9,15 @@
   },
   "dependencies": {
     "@react-native-community/masked-view": "0.1.5",
-    "@react-navigation/native": "^5.1.4",
-    "@react-navigation/stack": "^5.2.9",
+    "@react-navigation/native": "^5.5.1",
+    "@react-navigation/stack": "^5.5.1",
     "axios": "^0.19.2",
+    "core-js": "^3.6.5",
     "expo": "~36.0.0",
     "expo-constants": "~8.0.0",
     "expo-mail-composer": "~8.0.0",
     "intl": "^1.2.5",
+    "logkitty": "^0.7.1",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
@@ -27,8 +29,8 @@
     "yarn": "^1.22.4"
   },
   "devDependencies": {
-    "babel-preset-expo": "~8.0.0",
-    "@babel/core": "^7.0.0"
+    "@babel/core": "^7.10.2",
+    "babel-preset-expo": "~8.0.0"
   },
   "private": true
 }
